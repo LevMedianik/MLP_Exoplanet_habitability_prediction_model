@@ -52,12 +52,16 @@ AUC-ROC Curve: Assesses the model’s ability to distinguish between habitable a
 ## 8. Model Performance & Results
 The **classification report** indicated a high level of accuracy with balanced precision and recall:
 ![image](https://github.com/user-attachments/assets/45bcab32-02e5-4e10-a5db-1a79b1649b2b)
+
 The **confusion matrix** showed that the model effectively classified the majority of **potentially habitable** exoplanets correctly.  
 ![image](https://github.com/user-attachments/assets/1950822a-0154-4c60-81d1-4039bcdf2208)
+
 The **AUC-ROC curve** displayed near-perfect discrimination between habitable and non-habitable planets.
 ![image](https://github.com/user-attachments/assets/331f350a-fcff-4f31-a2d5-6a08620a5d2c)
+
 The **learning curves** demonstrated a good fit of the model
 ![image](https://github.com/user-attachments/assets/1b53eaa9-a2fe-4fdb-94de-8e1b185d889e)
+
 ## References
 1. NASA Exoplanet Archive: https://exoplanetarchive.ipac.caltech.edu/
 2. Mathur, S., Sizon, S., & Goel, N. (2021). Identifying Exoplanets Using Deep Learning and Predicting Their Likelihood of Habitability.
