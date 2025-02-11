@@ -1,7 +1,7 @@
 # MLP_Exoplanet_habitability_prediction_model 🌎🌱
 This is Multi-Layer Perceptron model for exoplanet habitability prediction. The model is using NASA Exoplanet Archive dataset that includes more than 38000 planets and 66 variables reflecting planetary and stellar characteristics. The model can predict planet habitability with the accuracy of 99.67%. 
 Data can be achieved in https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PS.
-This work can be deployed in Google Colab only.
+**This work can be deployed in Google Colab only.**
 Various feature engineering techniques and data augmentation steps were implemented to enhance model performance, ensuring accurate habitability classification.
 # Working process of the model
 ## 1. Data Collection and Preprocessing
